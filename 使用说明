@@ -1,0 +1,8 @@
+功能：使用pyton爬取校草网的数据
+使用到的python模块
+1、pymysql　　负责连接mysql并执行sql语句的操作
+2、requests  可以完成http各种方式请求
+3、pquery    用于处理html dom文档
+安装需求
+python3.6 pymysql pquery request pip
+爬取的数据可用php读取数据库数据显示
